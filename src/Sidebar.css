@@ -1,0 +1,20 @@
+.sidebar {
+    flex: 0.15;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+.search {
+    display: flex;
+    align-items: center;
+    border: none;
+    flex: 1;
+}
+.search__icon {
+    display: flex;
+    align-items: center;
+}
+
+.categary__icon {
+    display: flex;
+    flex-wrap: wrap;
+}

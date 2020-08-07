@@ -1,0 +1,18 @@
+.courseCard {
+    margin-bottom: 40px;
+    width: 260px;
+    background-color: lightgray;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.first {
+    margin-bottom: 20px;
+}
+.second {
+     height: 140px;
+     width: 250px;
+}
+/* .third {
+    display: flex;
+} */
